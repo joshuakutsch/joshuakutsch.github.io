@@ -1,4 +1,4 @@
-# joshuakutsch.github.io
+jkcoolsville.github.io
 ====================
 
 ## Hello world!
@@ -6,10 +6,11 @@
 This is my first try at github!
 
 My Github user page is at: 
-https://github.com/joshuakutsch/
+https://github.com/jkcoolsville/
 
 My Github Pages repo can be found at:  
-https://github.com/joshuakutsch/joshuakutsch.github.io
+https://github.com/jkcoolsville/jkcoolsville.github.io/
+
 And, soon, you can see my customized homepage at:
 
-http://joshuakutsch.github.io/
+http://jkcoolsville.github.io/
